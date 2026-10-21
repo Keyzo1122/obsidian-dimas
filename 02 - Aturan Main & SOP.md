@@ -24,8 +24,12 @@ Semua agen **DILARANG** melakukan tindakan ini tanpa izin eksplisit Mas Dimas:
 ---
 
 ## 3. Standar Laporan Tugas (Semua Tim & Agen)
-Setiap kali Clara, Head, atau spesialis membuat dan menjalankan tugas, WAJIB melaporkan progres berkala:
-1. **Tahap Berjalan**: Sedang sampai apa / proses apa yang dieksekusi.
-2. **Progres (%)**: Persentase kemajuan kerja.
-3. **Estimasi Waktu (ETA)**: Perkiraan berapa lama lagi sampai selesai.
-*Tujuan: Evaluasi berkala dan cegah tugas stuck tanpa kejelasan.*
+**3a. Chat tanda terima (wajib, segera).** Begitu perintah kerja diterima, kirim satu chat singkat sebelum mulai: siap + apa yang dikerjakan + ETA kasar. Contoh: *"Siap Mas Dim, aku kerjakan X. ETA ~15 menit."* Dilarang diam sampai hasil jadi — Mas Dimas tidak boleh menagih dulu.
+
+**3b. Chat progres tiap +10% (wajib).** Setiap kenaikan progres sekitar 10% (10, 20, 30 … 100) kirim chat singkat berisi:
+1. **Tahap Berjalan**: sedang sampai apa / proses apa yang dieksekusi.
+2. **Progres (%)**: persentase kemajuan (boleh dugaan, asal rutin dan jujur).
+3. **Estimasi Waktu (ETA)**: perkiraan berapa lama lagi sampai selesai.
+
+Tugas kecil (<2 menit): cukup tanda terima + laporan selesai. Macet melewati 2x ETA: kirim progres + penyebab + ETA baru.
+*Tujuan: Mas Dimas tahu perintahnya sudah jalan atau belum, tanpa harus menagih; evaluasi berkala dan cegah tugas stuck tanpa kejelasan.*
